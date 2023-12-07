@@ -19,7 +19,7 @@ permalink: /agenda/
             <td class="program-special-event">08:10-08:40</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Lightweight virtualization for giving the cloud an edge</span>
-                <b><br>&emsp;<a href="/speakers/#rowe-anthony">Prof. Anthony Rowe,</a></b>
+                <b><br>&emsp;<a href="/2022/speakers/#rowe-anthony">Prof. Anthony Rowe,</a></b>
                 <br>&emsp;<a href="https://www.cmu.edu/">Carnegie Mellon University, USA </a>
             </td>
         </tr>
@@ -67,7 +67,7 @@ permalink: /agenda/
             <td class="program-special-event">09:40-10:10</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Industrial use-cases for real-time edge-computing</span>
-                <b><br>&emsp;<a href="/speakers/#hamann-arne">Dr. Arne Hamann,</a></b>
+                <b><br>&emsp;<a href="/2022/speakers/#hamann-arne">Dr. Arne Hamann,</a></b>
                 <br>&emsp;<a href="https://www.bosch.com/research/">Bosch Corporate Research, Germany </a>
             </td>
         </tr>
@@ -83,7 +83,7 @@ permalink: /agenda/
                 ]
                 <br>
                 <span class="program-invited-speaker">Matteo Andreozzi and Girish Shirasat, ARM. <br>
-                    PRESENTED BY <b><br>&emsp;<a href="/speakers/#shirasat-girish">Dr. Girish Shirasat,</a></b>
+                    PRESENTED BY <b><br>&emsp;<a href="/2022/speakers/#shirasat-girish">Dr. Girish Shirasat,</a></b>
                 <br>&emsp;<a href="https://www.arm.com">ARM, UK </a>
                 </span>
             </td>
@@ -96,7 +96,7 @@ permalink: /agenda/
                 ]
                 <br>
                 <span class="program-invited-speaker">Hyunjong Choi, Daniel Enright, Hoora Sobhani, Yecheng Xiang and Hyoseung Kim. <br>
-                    PRESENTED BY <b><br>&emsp;<a href="/speakers/#choi-hyunjong">Dr. Hyunjong Choi,</a></b>
+                    PRESENTED BY <b><br>&emsp;<a href="/2022/speakers/#choi-hyunjong">Dr. Hyunjong Choi,</a></b>
                 <br>&emsp;<a href="https://www.ucr.edu/">University of California at Riverside, USA </a>
                 </span>
             </td>
@@ -109,7 +109,7 @@ permalink: /agenda/
             <td class="program-special-event">10:55-11:25</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Giving the Software Defined Vehicle an Edge</span>
-                <b><br>&emsp;<a href="/speakers/#seitter-joerg">Joerg Seitter,</a></b>
+                <b><br>&emsp;<a href="/2022/speakers/#seitter-joerg">Joerg Seitter,</a></b>
                 <br>&emsp;<a href="https://www.etas.com/en">ETAS, Germany </a>
             </td>
         </tr>
@@ -117,7 +117,7 @@ permalink: /agenda/
             <td class="program-special-event">11:25-11:55</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >The role of virtualization at the edge for mixed-criticality applications</span>
-                <b><br>&emsp;<a href="/speakers/#cicero-giorgiomaria">Giorgiomaria Cicero,</a></b>
+                <b><br>&emsp;<a href="/2022/speakers/#cicero-giorgiomaria">Giorgiomaria Cicero,</a></b>
                 <br>&emsp;<a href="https://accelerat.eu/">Accelerat S.R.L., Italy </a>
             </td>
         </tr>
@@ -135,7 +135,7 @@ permalink: /agenda/
             <td class="program-special-event">12:55-13:25</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >zenoh: A Next-Generation Protocol for IoT and Edge Computing</span>
-                <b><br>&emsp;<a href="/speakers/#desbiens-frederic">Dr. Frédéric Desbiens,</a></b>
+                <b><br>&emsp;<a href="/2022/speakers/#desbiens-frederic">Dr. Frédéric Desbiens,</a></b>
                 <br>&emsp;<a href="https://www.eclipse.org/org/">Eclipse Foundation, Canada </a>
             </td>
         </tr>
@@ -183,7 +183,7 @@ permalink: /agenda/
             <td class="program-special-event">14:25-14:55</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Deadline-Aware Task Offloading for Vehicular Edge Computing Networks</span>
-                <b><br>&emsp;<a href="/speakers/#oza-pratham">Dr. Pratham Oza,</a></b>
+                <b><br>&emsp;<a href="/2022/speakers/#oza-pratham">Dr. Pratham Oza,</a></b>
                 <br>&emsp;<a href="https://www.nuro.ai/">Nuro Inc., USA </a>
             </td>
         </tr>
@@ -191,7 +191,7 @@ permalink: /agenda/
             <td class="program-special-event">14:55-15:25</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Serving DNNs like Clockwork: Performance Predictability from the Bottom Up</span>
-                <b><br>&emsp;<a href="/speakers/#gujarati-arpan">Dr. Arpan Gujarati,</a></b>
+                <b><br>&emsp;<a href="/2022/speakers/#gujarati-arpan">Dr. Arpan Gujarati,</a></b>
                 <br>&emsp;<a href="https://www.ubc.ca/">University of British Columbia, Canada </a>
             </td>
         </tr>
@@ -203,7 +203,7 @@ permalink: /agenda/
             <td class="program-special-event">15:40-16:10</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >QoS-aware resource management for Edge-AI</span>
-                <b><br>&emsp;<a href="/speakers/#khamfroush-hana">Prof. Hana Khamfroush,</a></b>
+                <b><br>&emsp;<a href="/2022/speakers/#khamfroush-hana">Prof. Hana Khamfroush,</a></b>
                 <br>&emsp;<a href="https://uky.edu/">University of Kentucky, USA </a>
             </td>
         </tr>
@@ -211,7 +211,7 @@ permalink: /agenda/
             <td class="program-special-event">16:10-16:40</td>
             <td class="program-special-event"><b>Invited Talk:</b>
                 <br>&emsp;<span >Low power Machine Learning Techniques for Edge-AI</span>
-                <b><br>&emsp;<a href="/speakers/#al-faruque-mohammad">Prof. Mohammad Al Faruque,</a></b>
+                <b><br>&emsp;<a href="/2022/speakers/#al-faruque-mohammad">Prof. Mohammad Al Faruque,</a></b>
                 <br>&emsp;<a href="https://uci.edu/">University of California at Irvine (UCI), USA </a>
             </td>
         </tr>
