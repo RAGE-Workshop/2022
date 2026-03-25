@@ -31,7 +31,7 @@ permalink: /agenda/
             <td>08:40-08:55</td>
             <td>
                 MArK8s - A Management Toolchain Approach for Automotive Real-Time Kubernetes Containers in the Mobile Edge Cloud [ 
-                <a href="/contributions/3647"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2022/contributions/3647"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Bernhard Blieninger, Aaron Dietz and Uwe Baumgarten</span>
@@ -41,7 +41,7 @@ permalink: /agenda/
             <td>08:55-09:10</td>
             <td>
                 Towards a Predictable and Cognitive Edge-Cloud Architecture for Industrial Systems [ 
-                <a href="/contributions/4542"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2022/contributions/4542"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Mohammad Ashjaei, Saad Mubeen, Masoud Daneshtaalb, Victor Casamayor and Geoffrey Nelissen<br>
@@ -52,7 +52,7 @@ permalink: /agenda/
             <td>09:10-09:25</td>
             <td>
                 RT-SCALER: Adaptive Resource Allocation Framework for Real-Time Containers [ 
-                <a href="/contributions/8076"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2022/contributions/8076"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Vaclav Struhar, Silviu S. Craciunas, Mohammad Ashjaei, Moris Behnam and Alessandro Papadopoulos<br>
@@ -79,7 +79,7 @@ permalink: /agenda/
             <td>10:10-10:25</td>
             <td>
                 High-performance real-time systems design from cloud to embedded edge. [ 
-                <a href="/contributions/5763"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2022/contributions/5763"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-invited-speaker">Matteo Andreozzi and Girish Shirasat, ARM. <br>
@@ -92,7 +92,7 @@ permalink: /agenda/
             <td>10:25-10:40</td>
             <td>
                 Priority-Driven Real-Time Scheduling in ROS2: Potential and Challenges [ 
-                <a href="/contributions/0625"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2022/contributions/0625"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-invited-speaker">Hyunjong Choi, Daniel Enright, Hoora Sobhani, Yecheng Xiang and Hyoseung Kim. <br>
@@ -147,7 +147,7 @@ permalink: /agenda/
             <td>13:25-13:40</td>
             <td>
                 Minimal-Overlap Centrality-Driven Gateway Designation for Real-Time TSCH Networks [ 
-                <a href="/contributions/3523"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2022/contributions/3523"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Miguel Gutiérrez Gaitán, Pedro d'Orey, Pedro Santos and Luís Almeida</span>
@@ -157,7 +157,7 @@ permalink: /agenda/
             <td>13:40-13:55</td>
             <td>
                 No-more-unbounded-blocking queues: bounding transmission latencies in real-time edge computing [ 
-                <a href="/contributions/8877"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2022/contributions/8877"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Gabriele Serra and Pietro Fara<br>
@@ -168,7 +168,7 @@ permalink: /agenda/
             <td>13:55-14:10</td>
             <td>
                 Safety Verification of Third-Party Hardware Modules via Information Flow Tracking [ 
-                <a href="/contributions/7335"><i class="fa fa-file-text-o "></i></a> 
+                <a href="/2022/contributions/7335"><i class="fa fa-file-text-o "></i></a> 
                 ]
                 <br>
                 <span class="program-speaker">Andres Meza, Francesco Restuccia, Ryan Kastner and Jason Oberg<br>
